@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: file:///D:\Users\LENOVO\Documents\Publii\sites\coleccion-de-interfaces\preview/sitemap.xml

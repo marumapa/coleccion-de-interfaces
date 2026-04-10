@@ -1,0 +1,9 @@
+Attribute;Type;Descripción;Formato;Restricciones;;Estándar de nomenclatura
+pid;pid;"LLave única de identificación del ítem de la colección (""personal identification"").";;;;snake_case
+label;label;Nombre del ítem.;;;;snake_case
+Categoría;text;Categoría de la naturaleza de la interfaz (digitales, análogos, vivos, humanos).;;;;snake_case
+Tipo de interfaz;text;Categoría técnica que clasifica el tipo de interfaz (GUI, CLI, VUI, NUI, Hardware, API).;;;;snake_case
+Conexiones;text;Sistemas que conecta (ej, humano-máquina, aplicación-aplicación).;;;;snake_case
+Descripción;text;Descripción sobre el contexto, historia, antecedentes y anécdotas sobre la interfaz.;;;;snake_case
+Fecha de creación;date;Fecha en año de creación y/o implementación de esta interfaz (incluye no conocido);AAAA;;;snake_case
+Traducción;text;Descripción sobre el proceso de transformación y traducción de ;;;;

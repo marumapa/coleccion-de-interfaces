@@ -1,0 +1,138 @@
+{
+  "protocol": {
+    "pid": "pid",
+    "label": "label",
+    "Categor�a": "text",
+    "Tipo de interfaz": "text",
+    "Conexiones": "text",
+    "Descripci�n": "text",
+    "Fecha de creaci�n": "date",
+    "Traducci�n": "text"
+  },
+  "items": [
+    {
+      "pid": "A1",
+      "label": "�tem 1",
+      "Categor�a": "A",
+      "Tipo de interfaz": "digital",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": [
+        "file:///D:\\Users\\LENOVO\\Documents\\Publii\\sites\\coleccion-de-interfaces\\preview/media/files/collection/images/A1.jpg"
+      ]
+    },
+    {
+      "pid": "B1",
+      "label": "�tem 2",
+      "Categor�a": "B",
+      "Tipo de interfaz": "humano",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": [
+        "file:///D:\\Users\\LENOVO\\Documents\\Publii\\sites\\coleccion-de-interfaces\\preview/media/files/collection/images/B1.jpg"
+      ]
+    },
+    {
+      "pid": "C1",
+      "label": "�tem 3",
+      "Categor�a": "C",
+      "Tipo de interfaz": "an�logo",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": [
+        "file:///D:\\Users\\LENOVO\\Documents\\Publii\\sites\\coleccion-de-interfaces\\preview/media/files/collection/images/C1.jpg"
+      ]
+    },
+    {
+      "pid": "D1",
+      "label": "�tem 4",
+      "Categor�a": "D",
+      "Tipo de interfaz": "digital",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": [
+        "file:///D:\\Users\\LENOVO\\Documents\\Publii\\sites\\coleccion-de-interfaces\\preview/media/files/collection/images/D1.png"
+      ]
+    },
+    {
+      "pid": "A2",
+      "label": "�tem 5",
+      "Categor�a": "A",
+      "Tipo de interfaz": "humano",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": [
+        "file:///D:\\Users\\LENOVO\\Documents\\Publii\\sites\\coleccion-de-interfaces\\preview/media/files/collection/images/A2.png"
+      ]
+    },
+    {
+      "pid": "B2",
+      "label": "�tem 6",
+      "Categor�a": "B",
+      "Tipo de interfaz": "an�logo",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": []
+    },
+    {
+      "pid": "C2",
+      "label": "�tem 7",
+      "Categor�a": "C",
+      "Tipo de interfaz": "vivo",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": [
+        "file:///D:\\Users\\LENOVO\\Documents\\Publii\\sites\\coleccion-de-interfaces\\preview/media/files/collection/images/C2.jpg"
+      ]
+    },
+    {
+      "pid": "D2",
+      "label": "�tem 8",
+      "Categor�a": "D",
+      "Tipo de interfaz": "digital",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": [
+        "file:///D:\\Users\\LENOVO\\Documents\\Publii\\sites\\coleccion-de-interfaces\\preview/media/files/collection/images/D2.png"
+      ]
+    },
+    {
+      "pid": "A3",
+      "label": "�tem 9",
+      "Categor�a": "A",
+      "Tipo de interfaz": "humano",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": []
+    },
+    {
+      "pid": "B3",
+      "label": "�tem 10",
+      "Categor�a": "B",
+      "Tipo de interfaz": "an�logo",
+      "Conexiones": "humano-m�quina",
+      "Descripci�n": "Una frase de descripci�n interesante y bacana.",
+      "Fecha de creaci�n": 2000,
+      "Traducci�n": "Informaci�n biol�gica a datos digitales que se representan en una imagen a trav�s de una pantalla.",
+      "images": []
+    }
+  ]
+}

@@ -1,0 +1,33 @@
+[
+    {
+        "name": "principal",
+        "position": "mainMenu",
+        "items": [
+            {
+                "id": 1775775749195,
+                "label": "Visita guiada",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 1,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            },
+            {
+                "id": 1775778926060,
+                "label": "Navegar colección",
+                "title": "",
+                "type": "page",
+                "target": "_self",
+                "rel": "",
+                "link": 3,
+                "cssClass": "",
+                "isHidden": false,
+                "items": []
+            }
+        ],
+        "maxLevels": "-1"
+    }
+]
