@@ -21,7 +21,9 @@
       "Tiempo coleccionando": "11 años",
       "Valor afectivo": "Es una colección única además de tener piezas limitadas que he conseguido con el pasar de los años, ademas esteticamente son muy bonitas y me gusta tener un recuerdo de cada serie o juego que me ha gustado además me gusta tener de muchas series diferentes",
       "Vínculo para ver más de la colección": null,
-      "images": []
+      "images": [
+        "https://marumapa.github.io/coleccion-de-interfaces/media/files/collection/images/c1.jpg"
+      ]
     },
     {
       "pid": "c2",
@@ -73,7 +75,7 @@
     },
     {
       "pid": "c5",
-      "label": "(No le hemos puesto nombre... pero podria ser Portavasos de nuestra vida)",
+      "label": "Portavasos de nuestra vida",
       "Nombre elemento coleccionable": "Portavasos",
       "Autor de la colección": "Alejandro y Sara",
       "Tipo de elementos": "Comunes, Encontrados, Robados",
@@ -91,7 +93,7 @@
     {
       "pid": "c6",
       "label": "Colección de stickers",
-      "Nombre elemento coleccionable": "stickers",
+      "Nombre elemento coleccionable": "Stickers",
       "Autor de la colección": "Pablo",
       "Tipo de elementos": "Comprados, Comunes, Encontrados, Regalados, Robados",
       "Intención de la colección": "Disfruto los diseños. Me estresaba no saber dónde pegarlos definitivamente sin arrepentirme.",
@@ -182,6 +184,34 @@
         "https://marumapa.github.io/coleccion-de-interfaces/media/files/collection/images/c11/c11e3.jpg",
         "https://marumapa.github.io/coleccion-de-interfaces/media/files/collection/images/c11/c11e4.jpg",
         "https://marumapa.github.io/coleccion-de-interfaces/media/files/collection/images/c11/c11e5.jpg"
+      ]
+    },
+    {
+      "pid": "c12",
+      "label": "Cuencos en cerámica",
+      "Nombre elemento coleccionable": "Cuencos",
+      "Autor de la colección": "Valentina Sandoval",
+      "Tipo de elementos": "Comprados, Elaborados por ti",
+      "Intención de la colección": "Me parece linda la posibilidad de llenarlos con algo que sea especial o llamativo, porque son abiertos. Exponen lo que se ponga en su interior. Incluso, me gusta a veces dejarlos vacíos para poder ver el diseño interno, así que no necesariamente tienen la utilidad de contener algo. Inicié haciéndolos yo misma en cerámica, me gustan como objeto, me gusta hacerlos, su tamaño y la posibilidad de encajar fácilmente en los espacios. Me gusta que al usarlos siento mi espacio como un lugar lindo, ordenado, especial y curioso.",
+      "Tiempo coleccionando": "Casi 10 años",
+      "Valor afectivo": "Me conecta con mi gusto y afinidad por los oficios, por el trabajo con las manos. Me gusta recordar que eso tan lindo lo hice yo, así que me evoca otras partes de lo que soy a través de lo que me gusta hacer. También, adquirir algunos hechos por otras personas me lleva a pensar en que alguien dedicó un poco de atención y tiempo, y también me hace feliz saber que los oficios siguen en pie gracias a quienes deciden hacerlo parte principal de sus vidas.",
+      "Vínculo para ver más de la colección": null,
+      "images": [
+        "https://marumapa.github.io/coleccion-de-interfaces/media/files/collection/images/c12.jpg"
+      ]
+    },
+    {
+      "pid": "c13",
+      "label": "No fotos",
+      "Nombre elemento coleccionable": "Ampliación análoga de fotografías",
+      "Autor de la colección": "Valentina Sandoval",
+      "Tipo de elementos": "Encontrados, Robados",
+      "Intención de la colección": "En el 2015 tomé mi primera clase de fotografía análoga y empecé a guardar fragmentos de papel de ampliación que había funcionado para hacer pruebas de luz. Me gusta la forma,as tonalidades, a veces los sujetos/objetos random, la textura. Luego, fui monitora del laboratorio y de clases de fotografía análoga durante la universidad, y seguí guardando algunos de esos fragmentos que encontraba al ordenar el laboratorio. Varios de estos los escondí con cuidado para que no me dijeran que estaba robando de la obra de otros. Hace años no vuelvo al laboratorio, pero sí lo hiciera robaría papeles otra vez, sin dudarlo.",
+      "Tiempo coleccionando": "6 años, hasta el 2020 aprox.",
+      "Valor afectivo": "Me conecta con mi gusto por la fotografía, me hace recordar lo mágico de 'pintar con luz', que es la esencia de este arte, me recuerda incluso la primera vez que entré al laboratorio y ví la magia del revelado. Para ese momento, hace mucho que algo no me generaba tanta sorpresa! Siento que esos fragmentos descartados tienen toda la posibilidad de ser algo más. Un separador de libro, un adorno de pared, un componente de un collage, etc",
+      "Vínculo para ver más de la colección": null,
+      "images": [
+        "https://marumapa.github.io/coleccion-de-interfaces/media/files/collection/images/c13.jpg"
       ]
     }
   ]
