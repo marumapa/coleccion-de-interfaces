@@ -1,9 +1,10 @@
-Attribute;Type;Descripci髇;Formato;Restricciones;;Est醤dar de nomenclatura
-pid;pid;"LLave 鷑ica de identificaci髇 del 韙em de la colecci髇 (""personal identification"").";;;;snake_case
-label;label;Nombre del 韙em.;;;;snake_case
-Categor韆;text;Categor韆 de la naturaleza de la interfaz (digitales, an醠ogos, vivos, humanos).;;;;snake_case
-Tipo de interfaz;text;Categor韆 t閏nica que clasifica el tipo de interfaz (GUI, CLI, VUI, NUI, Hardware, API).;;;;snake_case
-Conexiones;text;Sistemas que conecta (ej, humano-m醧uina, aplicaci髇-aplicaci髇).;;;;snake_case
-Descripci髇;text;Descripci髇 sobre el contexto, historia, antecedentes y an閏dotas sobre la interfaz.;;;;snake_case
-Fecha de creaci髇;date;Fecha en a駉 de creaci髇 y/o implementaci髇 de esta interfaz (incluye no conocido);AAAA;;;snake_case
-Traducci髇;text;Descripci髇 sobre el proceso de transformaci髇 y traducci髇 de ;;;;
+锘緼ttribute;Type;Descripci贸n
+pid;pid;"LLave 煤nica de identificaci贸n del 铆tem de la colecci贸n (""personal identification"")."
+label;label;Nombre de la colecci贸n
+Nombre elemento coleccionable;text;Nombre del elemento coleccionable
+Autor de la colecci贸n;text;Autor de la colecci贸n
+Tipo de elementos;text;Tipo de elementos coleccionables (comprado, encontrado, reciclado, restaurado, regalado, robado, elaborado por el autor de la colecci贸n, perecedero)
+Intenci贸n de la colecci贸n;text;Intenci贸n para coleccionar esos elementos
+Tiempo coleccionando;text;Tiempo que lleva coleccionando esos elementos
+Valor afectivo;text;Manera de describir el valor emocional que tienen esos elementos para el autor
+V铆nculo para ver m谩s de la colecci贸n;link;
