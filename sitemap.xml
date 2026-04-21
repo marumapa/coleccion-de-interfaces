@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://marumapa.github.io/coleccion-de-interfaces/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://marumapa.github.io/colecciones/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://marumapa.github.io/coleccion-de-interfaces/</loc>
+<loc>https://marumapa.github.io/colecciones/</loc>
 </url>
 <url>
-<loc>https://marumapa.github.io/coleccion-de-interfaces/datos.html</loc>
+<loc>https://marumapa.github.io/colecciones/datos.html</loc>
 <lastmod>2026-04-20T22:46:54-05:00</lastmod>
 </url>
 <url>
-<loc>https://marumapa.github.io/coleccion-de-interfaces/navegando-la-coleccion.html</loc>
+<loc>https://marumapa.github.io/colecciones/navegando-la-coleccion.html</loc>
 <lastmod>2026-04-20T22:45:51-05:00</lastmod>
 </url>
 <url>
-<loc>https://marumapa.github.io/coleccion-de-interfaces/navegar-la-coleccion.html</loc>
+<loc>https://marumapa.github.io/colecciones/navegar-la-coleccion.html</loc>
 <lastmod>2026-04-20T22:46:18-05:00</lastmod>
 </url>
 <url>
-<loc>https://marumapa.github.io/coleccion-de-interfaces/plantilla-de-item.html</loc>
+<loc>https://marumapa.github.io/colecciones/plantilla-de-item.html</loc>
 <lastmod>2026-04-09T18:42:04-05:00</lastmod>
 </url>
 </urlset>
