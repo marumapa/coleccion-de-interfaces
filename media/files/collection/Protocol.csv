@@ -1,7 +1,7 @@
 ﻿Attribute;Type;Descripción
 pid;pid;"LLave única de identificación del ítem de la colección (""personal identification"")."
 label;label;Nombre de la colección
-Nombre elemento coleccionable;text;Nombre del elemento coleccionable
+Elemento coleccionable;text;Nombre del elemento coleccionable
 Autor de la colección;text;Autor de la colección
 Tipo de elementos;text;Tipo de elementos coleccionables (comprado, encontrado, reciclado, restaurado, regalado, robado, elaborado por el autor de la colección, perecedero)
 Intención de la colección;text;Intención para coleccionar esos elementos
